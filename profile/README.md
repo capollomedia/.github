@@ -7,8 +7,10 @@ We're the team behind some of the most notable Minecraft events. We believe that
 Our team works across the entire world, creating the next generation of Minecraft content.
 
 - ❔ [Reach Out](mailto:inqiries@capollomedia.com)
-- 👑 [MCC: The Show](https://youtube.com/c/MCCHighlights)
-- 🌈 [Block Wars](https://blockwars.games)
-- ☕️ [Ington International](https://ington.net)
-- 🌐 [Below Bedrock](https://belowbedrock.cc)
+
+
+- 👑 [MCC: The Show](https://github.com/mccshow)
+- 🌈 [Block Wars](https://github.com/blockwarsmc)
+- ☕️ [Ington International](https://github.com/ingtoninternational)
+- 🌐 [Below Bedrock](https://github.com/belowbedrock)
 - 🎁 [Pandora's Box](https://pandorasbox.games)
