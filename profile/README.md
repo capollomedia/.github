@@ -1,4 +1,4 @@
-[![Capollo Media, LLC](https://cdn.capollomedia.com/web/cmsite/cmllc-fullcolour.png)](https://capollomedia.com)
+[![Capollo Media, LLC](https://cdn.capollomedia.com/web/cmsite/capollomedia_march2022.png)](https://capollomedia.com)
 
 ## Hi there! We're Capollo Media, LLC
 
