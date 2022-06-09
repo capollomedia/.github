@@ -11,6 +11,5 @@ Our team works across the entire world, creating the next generation of Minecraf
 
 - 👑 [MCC: The Show](https://github.com/mccshow)
 - 🌈 [Block Wars](https://github.com/blockwarsmc)
-- ☕️ [Ington International](https://github.com/ingtoninternational)
 - 🌐 [Below Bedrock](https://github.com/belowbedrock)
 - 🎁 [Pandora's Box](https://pandorasbox.games)
